@@ -3,7 +3,7 @@
 ## Datos Personales 
 ![Este soy yo](./img/20230825_141934.jpg)
    - nombre de preferencia : Daniel 
-   - Edad : 19 años 
+   - Edad : 20 
    - Estado : Soltero 
    - Ocupacion : Estudiante universario
    - Residencia: Jose Clemente Paz, Buenos aires. 
